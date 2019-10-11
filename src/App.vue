@@ -39,7 +39,7 @@ html {
   width: 320px;
   padding: 8px 16px;
   font-family: "Graduate", sans-serif;
-  background-color: #444;
+  background-color: #999;
   line-height: 1.5;
   border-radius: 0px;
 }
